@@ -1,0 +1,75 @@
+{
+  "wordmark": "FONTANESI",
+  "first_name": "Francesco",
+  "role": "jobless engineer",
+  "header_right": "README.MD",
+  "footer": [
+    [
+      "DATE",
+      "2026.10"
+    ],
+    [
+      "EDITION",
+      "01"
+    ],
+    [
+      "AUTHOR",
+      "F. FONTANESI"
+    ]
+  ],
+  "object_label": "NIHILISM",
+  "seed": 7,
+  "terminal": {
+    "title": "WHOAMI",
+    "meta": "TTY 0",
+    "lines": [
+      [
+        "cmd",
+        "whoami"
+      ],
+      [
+        "out",
+        "francesco fontanesi. engineer. jobless."
+      ],
+      [
+        "cmd",
+        "cat principles.txt"
+      ],
+      [
+        "out",
+        "i build only what i need."
+      ],
+      [
+        "out",
+        "i use everything i build."
+      ]
+    ]
+  },
+  "stack": {
+    "columns": [
+      "LANGUAGE",
+      "STATUS",
+      "USE"
+    ],
+    "rows": [
+      [
+        "Python",
+        "PRIMARY",
+        "DEEP LEARNING",
+        true
+      ],
+      [
+        "Rust",
+        "IN USE",
+        "",
+        false
+      ],
+      [
+        "TypeScript",
+        "IN USE",
+        "",
+        false
+      ]
+    ]
+  }
+}
